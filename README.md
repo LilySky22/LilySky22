@@ -2,7 +2,7 @@
 - 🏫 Year 12 in CNC
 - 🎓 Aspiring Degree Apprentiship or Computer Science Graduate
 - 👀 I’m interested in all thngs computer science, specifically software engineering
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, HTML and CSS
 
 <!---
 LilySky22/LilySky22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
