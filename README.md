@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LilySky22
-- 🏫 Year 12 in CNC
+- 🏫 Year 14 in CNC
 - 🎓 Aspiring Degree Apprentiship or Computer Science Graduate
-- 👀 I’m interested in all thngs computer science, specifically software engineering
+- 👀 I’m interested in all thngs computer science, specifically digital foresics
 - 🌱 I’m currently learning C#, HTML and CSS
 
 <!---
